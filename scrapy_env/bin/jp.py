@@ -1,4 +1,4 @@
-#!/var/lib/private/ит-11_руммо/RIOIS/python-scrapper/scrapy_env/bin/python
+#!/Users/daniil/Desktop/RIOIS/scrapy_env/bin/python3.12
 
 import sys
 import json
