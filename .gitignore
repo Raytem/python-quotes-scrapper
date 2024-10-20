@@ -1,4 +1,4 @@
-/scrapy_env/*
+/scrapy_env
 /output/*
 /sql_lite_databases/*
 __pycache__/
